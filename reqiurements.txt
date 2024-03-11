@@ -1,0 +1,7 @@
+sqldf
+pandas
+datetime
+time
+selenium
+bs4
+psycopg2
