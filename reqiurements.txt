@@ -1,5 +1,5 @@
-sqldf
 pandas
+tqdm
 datetime
 time
 selenium
